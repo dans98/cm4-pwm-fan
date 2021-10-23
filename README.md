@@ -36,5 +36,5 @@ curve = {
     ```
 
 # stress testing
-Included in the repo is a stess testing script thats generates a csv file. The csv file can be used to generate a graph like the one below.  Being able to easilly visualize everyhting allows you to tune the script tyo your needs.     
+Included in the repo is a stess testing script thats generates a csv file. The csv file can be used to generate a graph like the one below.  Being able to easilly visualize everyhting allows you to tune the script to your needs.     
 ![Stress Test Results](https://raw.githubusercontent.com/dans98/cm4-pwm-fan/main/stress.png)    
